@@ -1,0 +1,10 @@
+*
+!.gitignore
+!mod.ts
+!deno*
+!dist/
+!dist/**/*
+!.github/
+!.github/**/*
+!README.md
+!LICENSE
